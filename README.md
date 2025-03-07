@@ -13,3 +13,5 @@ For improved player interaction, I incorporated torque-based rotation mechanics,
 Finally, the FinishLine script signals level completion through audio cues and particle effects, subsequently restarting the game after a short delay.
 
 This project significantly expanded my technical skills and understanding of game mechanics, equipping me with valuable experience I look forward to applying in future game development endeavors.
+
+![Gameplay Screenshot](image.png)
